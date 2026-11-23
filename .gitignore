@@ -1,0 +1,12 @@
+# environments
+ml_project_env/
+venv/
+.venv/
+# Python / Jupyter clutter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+# OS / editors
+.DS_Store
+.vscode/
+.idea/
